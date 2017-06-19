@@ -5,6 +5,15 @@ NID: al373180
 COP3503
 */
 
+/*
+Assignemnt done for Dr. Szumlanski, UCF - Computer Science 2.
+Practicing the art of dynamic programming. Will be given an array of blocks
+with positive integers, with values ordered from left to right. Must determine
+the maximum knowledge gained for any arbitrary sequence of blocks. Can only be obtained
+by either taking the first block and skipping the next, or skipping the first two blocks
+and taking the next. 
+*/
+
 import java.io.*;
 import java.util.*;
 

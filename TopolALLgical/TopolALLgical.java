@@ -5,8 +5,16 @@ COP 3503
 NID: al373180
 */
 
+/*
+Assignment for Dr. Szumlanski, UCF - Computer Science 2.
+Must determine all valid topoligical sorts for an arbitrary graph. 
+Required to take a backtracking approach to this problem, and must have a
+best case runtime no worse than O(n^2).
+*/
+
 import java.io.*;
 import java.util.*;
+
 public class TopolALLgical
 {
     static boolean matrix[][];

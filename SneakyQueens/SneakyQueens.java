@@ -2,6 +2,13 @@
 // COP3503
 // 1-15-17
 
+/*
+Assignment for Dr. Szumlanski, UCF - Computer Science 2.
+Will be given a list of coordinate strings for queens on an arbitrarily large square
+chess board, and must determine whether any of the queens can attack one another
+in the given configuration.
+ */
+
 import java.io.*;
 import java.lang.*;
 import java.util.*;

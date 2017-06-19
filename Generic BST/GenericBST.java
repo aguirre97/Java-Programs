@@ -7,8 +7,8 @@
 // GenericBST: GenericBST.java
 // ====================
 // Basic binary search tree (BST) implementation that supports insert() and
-// delete() operations. This framework is provide for you to modify as part of
-// Programming Assignment #2.
+// delete() operations. 
+// Assignment done for Dr. Szumlanski, UCF - Computer Science 2.
 
 
 import java.io.*;

@@ -5,6 +5,14 @@ COP3503
 1-31-17
 */
 
+/*
+Assignment for Dr. Szumlanski, UCF - Computer Science 2.
+Similar to SneakyQuees, except must use data structures. Will be given a 
+list of coordinate strings for knights on an arbitrarily large square chess board,
+and need to determine whterh any of the knights can attack one another in the given
+configuration.
+*/
+
 import java.io.*;
 import java.lang.*;
 import java.util.*;

@@ -4,6 +4,13 @@ NID: al373180
 COP3503
 2-23-17
 */
+
+/* Assignment done for Dr. Szumlanski, UCF - Computer Science 2.
+Implement probabilistic skip list data structure. Insertion, deletion, 
+and search operations as described in class. Skip List class mist be generic.
+Must restrict the type parameter to classes that implement Comparable.
+*/
+
 import java.io.*;
 import java.util.*;
 

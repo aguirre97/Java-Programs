@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.*;
-
 /*
 Alexandra Aguirre
 NID: al373180
@@ -8,6 +5,14 @@ COP 3503
 3-22-17
 */
 
+/*
+Assignment for Dr. Szumlanski, UCF - Computer Science 2.
+Will determine whether an arbitrary directed graph has a valid topological sort
+in which some vertex, x, comes before some other vertex, y. 
+*/
+
+import java.io.*;
+import java.util.*;
 
 public class ConstrainedTopoSort
 {
